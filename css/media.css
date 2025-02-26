@@ -1,0 +1,166 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+	/*banner*/
+	txt {
+    font-size: 20px;
+}
+	.h_text {
+    font-size: 40px;
+    
+}
+
+.p_text {
+    font-size: 14px;
+  }  
+ /*banner*/
+ /*berries*/
+ .berries {
+    padding-top: 33px;
+    text-align: center;
+    padding-bottom: 10px;
+}
+ .r_p{
+ 	font-size: 10px;
+ }
+ /*berries*/
+ .btn_y {
+    margin-left: 65px;
+}
+
+.textt {
+    font-size: 15px;
+ }
+ .text-start {
+    text-align: center !important;
+}
+
+  .foot_icon {
+    margin-bottom: 30px;
+}
+.quote {
+    padding-bottom: 50px;
+    
+}
+.p_x {
+ margin: 0px;
+ }
+ .contact {
+    padding-top: 0px;
+   
+}
+.name {
+    
+    text-align: right;
+}
+footer {
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+.foot_icon {
+   
+    padding-bottom: 21px;
+}
+}
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+	/*banner*/
+	.img_1{
+		padding: 31px;
+	}
+	/*banner*/
+	/*berries*/
+	.berries {
+    padding-top: 33px;
+    text-align: center;
+    padding-bottom: 10px;
+}
+ .r_p{
+ 	font-size: 10px;
+ }
+ /*berries*/
+ .btn_y {
+    margin-left: 180px;
+}
+.p_x {
+    margin: 0px 0px;
+    
+}
+.text-start {
+    text-align: center !important;
+}
+name {
+    text-align: center;
+}
+
+.contact {
+    padding-top: 0px;
+    
+}
+footer {
+    padding-top: 20px;
+    padding-bottom: 35px;
+  
+}
+.foot_icon {
+   
+    padding-bottom: 21px;
+}
+.name {
+    text-align: center;
+}
+}
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+   /*berries*/
+	.berries {
+    text-align: center;
+    padding-top: 22px;
+}
+   /*berries*/
+   .btn_y {
+    margin-left: 280px;
+}
+.name {
+    text-align: center;
+}
+.text-start {
+    text-align: center !important;
+}
+footer {
+    padding-top: 30px;
+    padding-bottom: 40px;
+}
+.foot_icon {
+   
+    padding-bottom: 21px;
+}
+}
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	/*banner*/
+	.b_text{
+	margin: 25px 24px 125px;
+	}
+	.btn_y {
+    margin-left: 375px;
+}
+.foot_icon {
+    
+    padding-bottom: 30px;
+}
+}
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+	.foot_icon {
+   
+    padding-bottom: 30px;
+}
+}
+/* Extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+	.foot_icon {
+   
+    padding-bottom: 30px;
+}
+}

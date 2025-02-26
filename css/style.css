@@ -1,0 +1,254 @@
+/*header start*/
+
+header{
+	background-color:black!important;
+	padding-top: 15px;
+	padding-bottom: 20px;
+}
+
+.cus_nav{}
+.logo{}
+.tog_n{
+	color: #6c757d!important;
+	background-color: #f8f9fa!important;
+}
+.menu{}
+.menu ul li a{
+	font-size: 19px;
+	font-weight: 600!important;
+	color:floralwhite!important;
+  padding-right: 40px !important;
+  transition:.33s;
+
+}
+.menu ul li a:hover{
+	color:#626262!important;
+}
+
+.btn_contact{
+  background-color:whitesmoke;
+  font-size: 19px;
+  font-weight: 600;
+  color: black;
+  padding: 12px 25px;
+  border: none;
+  border-radius: 33px;
+  } 
+.btn_contact:hover{
+ background-color:dimgrey;
+color: whitesmoke;
+}
+
+/*header end*/
+
+/*banner start*/
+.banner{ 
+background-color: black; 
+}
+.b_text{
+  padding-top:18PX;
+ 	color: whitesmoke;
+}
+.h_text{
+	font-size: 70px;
+	font-weight: 750;
+	transition: .33s linear;
+}
+.h_text:hover{
+ color: #626262;
+
+ transform: scale(.7);
+
+}
+.txt{
+	font-size: 27px;
+	font-weight: 700;
+}
+.p_text{
+	font-size: 18px;
+	color: #626262;
+	font-weight: 800;
+}
+.img1{}
+/*banner end */
+ /*berries*/
+ .berries{
+ 	padding-top: 5px;
+ 	background-color: black;
+}
+.r_h{
+	letter-spacing: 3px;
+	color: floralwhite;
+	padding-left: 40px;
+	padding-bottom: 10px;
+}
+.r_p{
+	font-weight: 500;
+	color: floralwhite;
+}
+.btn_r{
+	letter-spacing: 2px;
+	font-size: 20px;
+	color: floralwhite;
+	border: 3px solid white;
+  margin: 20px 40px;
+	background:transparent;
+}
+
+.btn_r:hover{
+	color: cyan;
+}
+ /*berries*/
+
+/*about info*/
+.info{
+	text-align: center;
+  background-color:#D7D7D7;
+}
+.btn_x{
+	margin-top: 40px;
+  letter-spacing: 3px;
+  font-size: 25px;
+  color: black;
+  font-weight: 680;
+  border: 3px solid black;
+  background-color: transparent;	
+}
+.btn_x:hover{
+	background-color: #626262;
+}
+.p_x{
+	padding-top: 18px;
+    margin: 0px 120px;
+    font-weight: 600;
+}
+.h2{
+	padding-top: 22px;
+	font-size: 30px;
+	letter-spacing:3px;
+}
+.p_5{
+	padding-top: 18px;
+  margin: 5px 55px;
+  font-weight: 700!important;
+}
+.p_9{
+	padding-top: 18px;
+  margin: 5px 55px;
+  font-weight: 700!important
+}
+ /*learning*/
+
+.use{
+	margin-top: 30px;
+	padding-bottom: 40px;
+	letter-spacing: 3px;
+	font-size: 28px;
+	font-weight: 700;
+}
+.icons{
+	background-color: #D7D7D7;
+}
+.space{
+	padding-bottom:75px ;
+}
+.name{
+	letter-spacing: 2px;
+	font-weight: 0px;
+	padding-right: 90px;
+	text-align: right;!important;
+
+}
+
+/*contact*/
+.contact{
+	padding-top: 30px ;
+	padding-bottom: 25px;
+	background-color: #D7D7D7;
+}
+.btn_y{
+ margin-left: 560px;
+
+}
+.quote{
+	padding-top: 15px;
+	padding-bottom: 10px;
+	font-weight: 600!important;
+	font-size: 21px;
+	text-align: center;
+}
+
+/* Input Fields */
+.input-box {
+    position: relative;
+    margin-bottom: 20px;
+    display:flex;
+}
+
+input, textarea {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    background: transparent;
+    border: none;
+    border-bottom: 2px solid black; 
+    outline: none;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+textarea {
+    height: 100px;
+    resize: none;
+}
+
+/* Floating Labels */
+.input-box label {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    transform: translateY(-50%);
+    font-size: 14px;
+    color: gray;
+    pointer-events: none;
+    transition: 0.3s ease-in-out;
+}
+
+input:focus + label, textarea:focus + label {
+    top: 0;
+    font-size: 12px;
+    color: black;
+}
+/*contact*/
+
+/*footer*/
+footer{
+    padding-top:80px;
+    padding-bottom: 100px;
+	background-color: black;
+	text-align: center;
+}
+
+.buton{
+	margin-bottom: 50px;
+    text-decoration: none;
+	font-size: 25px;
+	color: antiquewhite;
+	font-weight: 700px!important;
+    text-align: center;
+    background-color: black;
+
+}
+
+.foot_icon{
+letter-spacing: 10px;
+}
+
+.textt{
+	
+	color: antiquewhite;
+	
+    text-align: center;
+}
+  
+/*footer*/
